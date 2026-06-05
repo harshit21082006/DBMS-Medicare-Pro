@@ -1,0 +1,15 @@
+symptoms,diagnosis,icd10
+sore throat cough difficulty swallowing fever chills,Acute Pharyngitis,J02.9
+high temperature shivering sweating body ache weakness,Fever of Unknown Origin,R50.9
+throbbing head pain migraine nausea sensitivity to light,Migraine,G43.909
+stabbing lower right abdominal pain nausea vomiting fever,Acute Appendicitis,K35.80
+crushing chest pain shortness of breath pressure sweating,Angina Pectoris,I20.9
+pain swelling bruising deformed leg bone accident,Fracture of Bone,T14.2
+frequent urination increased thirst weight loss fatigue blur,Type 2 Diabetes Mellitus,E11.9
+dizziness headache high blood pressure readings,Essential Hypertension,I10
+runny nose sneezing nasal congestion watery eyes,Acute Nasopharyngitis (Common Cold),J00
+burning urination frequent urge to pee lower pelvic pain,Urinary Tract Infection,N39.0
+joint pain stiffness swelling knee arthritis morning stiffness,Osteoarthritis,M19.90
+shortness of breath wheezing dry cough chest tightness asthma,Asthma,J45.909
+abdominal bloating pain diarrhea gas cramps stomach ache,Irritable Bowel Syndrome,K58.9
+heartburn acid reflux chest burning regurgitation,Gastroesophageal Reflux Disease (GERD),K21.9
